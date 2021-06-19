@@ -85,8 +85,8 @@ different regions daily and keep a track to take actions where sales are not inc
      and transactions.market_code="Mark001";`
 
 
-## Data Analysis Using Power BI
-===============================
+## Data Analysis Using Power BI:
+
 * Different Formulas used for creating measures:
 
 1. `Revenue = SUM('sales transactions'[norm_amount])`
